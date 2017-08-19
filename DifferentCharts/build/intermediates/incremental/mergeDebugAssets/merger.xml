@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Administrator\Desktop\DifferentCharts\src\main\assets"><file name="model.ply" path="C:\Users\Administrator\Desktop\DifferentCharts\src\main\assets\model.ply"/></source><source path="C:\Users\Administrator\Desktop\DifferentCharts\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Administrator\Desktop\DifferentCharts\src\debug\assets"/></dataSet></merger>

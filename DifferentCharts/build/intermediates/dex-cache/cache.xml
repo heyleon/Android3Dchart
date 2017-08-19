@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DifferentCharts\libs\NChart3D.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="961c4433128c2f82f9eaf94c9736557ae9d06432">
+        <dex dex="C:\Users\Administrator\Desktop\DifferentCharts\build\intermediates\pre-dexed\debug\NChart3D_305778683adbe1861a973dde201ecdcefdab8fd6.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\slider_light.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\slider_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_dark.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\handler_dark.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\handler_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_pushed_light.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\play_pushed_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pause_pushed_light.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\pause_pushed_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pause_pushed_dark.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\pause_pushed_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pause_dark.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\q.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\q.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\handler_light.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\handler_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_light.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\play_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_play_sel.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\play_play_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pause_light.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\pause_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_pushed_dark.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\DifferentCharts\\src\\main\\res\\drawable-xhdpi\\play_pushed_dark.png"
+    }
+]

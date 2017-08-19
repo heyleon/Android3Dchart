@@ -1,0 +1,29 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.3'
+    }
+}
+apply plugin: 'com.android.application'
+
+repositories {
+    jcenter()
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+    defaultConfig {
+        applicationId "com.nulana.nchart3d.example.DifferentCharts"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 20
+        versionName "2.8.1"
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar', '*.so'])
+}
